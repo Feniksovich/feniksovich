@@ -1,10 +1,9 @@
-<a href="https://feniksovich.github.io"><img width="8%" src="https://feniksovich.github.io/assets/doge.gif"/></a>
-
 <h2>Hi <a href="#"><img width="3%" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/279/waving-hand_1f44b.png"></a>, I'm Maxim Fenixov</h1>
 <samp>
   The Internet knows me as <b>Feniksovich</b>, I'm DevOps, love Linux and code!<br />
   See more below :Р<br />
 </samp><br />
+<a href="https://feniksovich.github.io"><img align="right" width="8%" src="https://feniksovich.github.io/assets/doge.gif"/></a>
 
 - 🔭 I’m currently working on **[Furnex Network](https://furnex.org)**
 - 🌱 I’m currently learning **Java, Minecraft Bukkit & BungeeCord API**
