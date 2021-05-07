@@ -42,5 +42,5 @@
 </a>
 </p>
 
-![Profile Views](https://gpvc.arturio.dev/feniksovich)
-![feniksovich.github.io](https://img.shields.io/badge/feniksovich.github.io-B007B8?logo=github&logoColor=white)
+<a href="#">![Profile Views](https://gpvc.arturio.dev/feniksovich)</a>
+<a href="https://feniksovich.github.io">![feniksovich.github.io](https://img.shields.io/badge/feniksovich.github.io-B007B8?logo=github&logoColor=white)</a>
