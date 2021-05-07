@@ -38,8 +38,8 @@
 <h3 align="left">GitHub stats</h3>
 <p align="left">
 <a href="https://github.com/Feniksovich">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=feniksovich&count_private=true&show_icons=true&hide_border=true&theme=dark&icon_color=31c6ff&title_color=cd2fff&custom_title=My GitHub Stats"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feniksovich&layout=compact&hide_border=true&theme=dark&icon_color=31c6ff&title_color=cd2fff&custom_title=Top Languages"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=feniksovich&count_private=true&show_icons=true&hide_border=true&theme=dark&icon_color=31c6ff&title_color=cd2fff&custom_title=My GitHub Stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feniksovich&layout=compact&hide_border=true&theme=dark&icon_color=31c6ff&title_color=cd2fff&custom_title=Top Languages"/>
 </a>
 </p>
 
