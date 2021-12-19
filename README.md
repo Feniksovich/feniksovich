@@ -16,7 +16,7 @@
 ![Bash](https://img.shields.io/badge/Bash-0e1a30?logo=GNU+bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0e1a30?logo=python&logoColor=3776AB)
 ![Java](https://img.shields.io/badge/Java-0e1a30?logo=java&logoColor=orange)
-![JavaScript](https://img.shields.io/badge/JavaScript-0e1a30?logo=javascript&logoColor=F7DF1E)
+[](![JavaScript](https://img.shields.io/badge/JavaScript-0e1a30?logo=javascript&logoColor=F7DF1E))
 ![HTML5](https://img.shields.io/badge/HTML5-0e1a30?logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-0e1a30?logo=css3&logoColor=blue)<br />
 ![7 - Software:](https://img.shields.io/badge/7-Software%3A-0e1a30)
