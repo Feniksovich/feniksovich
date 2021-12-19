@@ -12,7 +12,7 @@
  
 <h3 align="left">Tech Stack</h3>
 
-![6 - Programming Skills:](https://img.shields.io/badge/6-Programming_Skills%3A-0e1a30)
+![5 - Programming Skills:](https://img.shields.io/badge/6-Programming_Skills%3A-0e1a30)
 ![Bash](https://img.shields.io/badge/Bash-0e1a30?logo=GNU+bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0e1a30?logo=python&logoColor=3776AB)
 ![Java](https://img.shields.io/badge/Java-0e1a30?logo=java&logoColor=orange)
