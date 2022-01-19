@@ -8,28 +8,27 @@
 - 🔭 I’m currently working on **[Furnex Network](https://furnex.org)**
 - 🌱 I’m currently learning **Java, Minecraft Bukkit & BungeeCord API**
 - 📫 How to reach me **[feniksovich.github.io](https://feniksovich.github.io)**
-- ⚡ Fun fact **I'm crazy about Doge meme**
+- ⚡ Fun fact **I'm crazy about Doge meme and Shiba Inu dogs**
  
 <h3 align="left">Tech Stack</h3>
 
-![5 - Programming Skills:](https://img.shields.io/badge/6-Programming_Skills%3A-0e1a30)
+![5 - Programming Skills:](https://img.shields.io/badge/5-Programming_Skills%3A-0e1a30)
 ![Bash](https://img.shields.io/badge/Bash-0e1a30?logo=GNU+bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0e1a30?logo=python&logoColor=3776AB)
 ![Java](https://img.shields.io/badge/Java-0e1a30?logo=java&logoColor=orange)
-[](![JavaScript](https://img.shields.io/badge/JavaScript-0e1a30?logo=javascript&logoColor=F7DF1E))
 ![HTML5](https://img.shields.io/badge/HTML5-0e1a30?logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-0e1a30?logo=css3&logoColor=blue)<br />
-![7 - Software:](https://img.shields.io/badge/7-Software%3A-0e1a30)
+![6 - Software:](https://img.shields.io/badge/6-Software%3A-0e1a30)
 ![Linux](https://img.shields.io/badge/Linux-0e1a30?logo=linux&logoColor=FCC624)
 ![WSL](https://img.shields.io/badge/WSL-0e1a30?logo=microsoft)
 ![Docker](https://img.shields.io/badge/Docker-0e1a30?logo=docker&logoColor=2496ED)
 ![MariaDB](https://img.shields.io/badge/MariaDB-0e1a30?logo=mariadb)
 ![Redis](https://img.shields.io/badge/Redis-0e1a30?logo=redis&logoColor=DC382D)
-![NGINX](https://img.shields.io/badge/NGINX-0e1a30?logo=nginx&logoColor=009639)
-![Node.js](https://img.shields.io/badge/Node.js-0e1a30?logo=node.js&logoColor=339933)<br />
-![5 - Tools:](https://img.shields.io/badge/5-Tools%3A-0e1a30)
+![NGINX](https://img.shields.io/badge/NGINX-0e1a30?logo=nginx&logoColor=009639)<br />
+![6 - Tools:](https://img.shields.io/badge/6-Tools%3A-0e1a30)
 ![Git](https://img.shields.io/badge/Git-0e1a30?logo=git&logoColor=F05032)
 ![Intellij IDEA](https://img.shields.io/badge/Intellij_IDEA-0e1a30?logo=intellij+idea&logoColor=critical)
+![Maven](https://img.shields.io/badge/Maven-0e1a30?logo=Apache+Maven&logoColor=C71A36)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0e1a30?logo=visual+studio+code&logoColor=007ACC)
 ![Illustrator](https://img.shields.io/badge/Illustrator-0e1a30?logo=Adobe+illustrator&logoColor=FF9A00)
 ![Photoshop](https://img.shields.io/badge/Photoshop-0e1a30?logo=Adobe+photoshop&logoColor=31A8FF)
