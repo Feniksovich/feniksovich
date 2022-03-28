@@ -2,14 +2,14 @@
 <samp>
   The Internet knows me as <img height="13px" src="https://feniksovich.github.io/assets/gradient_nickname.svg"/>, I'm DevOps, love Linux and code!<br />
   See more below :Р<br>
-</samp><br>
 <a href="https://feniksovich.github.io"><img align="right" width="8%" src="https://feniksovich.github.io/assets/doge.gif"/></a>
+</samp><br>
 
 <!--- - 🔭 I’m currently working on **[Furnex Network](https://furnex.org)** -->
 - 🌱 I’m currently learning **Java, Minecraft Bukkit & BungeeCord API**
 - 📫 How to reach me **[feniksovich.github.io](https://feniksovich.github.io)**
 - ⚡ Fun fact **I'm crazy about Doge meme and Shiba Inu dogs**
- 
+
 <h3 align="left">Tech Stack</h3>
 
 ![5 - Programming Skills:](https://img.shields.io/badge/5-Programming_Skills%3A-0e1a30)
