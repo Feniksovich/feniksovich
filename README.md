@@ -1,11 +1,11 @@
 <h2>Hi <a href="#"><img width="3%" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/279/waving-hand_1f44b.png"></a>, I'm Maxim Fenixov</h1>
 <samp>
-  The Internet knows me as <img src="https://feniksovich.github.io/assets/gradient_nickname.svg"/>, I'm DevOps, love Linux and code!<br />
-  See more below :Р<br />
-</samp><br />
+  The Internet knows me as <img height="13px" src="https://feniksovich.github.io/assets/gradient_nickname.svg"/>, I'm DevOps, love Linux and code!<br />
+  See more below :Р<br>
+</samp><br>
 <a href="https://feniksovich.github.io"><img align="right" width="8%" src="https://feniksovich.github.io/assets/doge.gif"/></a>
 
-- 🔭 I’m currently working on **[Furnex Network](https://furnex.org)**
+<!--- - 🔭 I’m currently working on **[Furnex Network](https://furnex.org)** -->
 - 🌱 I’m currently learning **Java, Minecraft Bukkit & BungeeCord API**
 - 📫 How to reach me **[feniksovich.github.io](https://feniksovich.github.io)**
 - ⚡ Fun fact **I'm crazy about Doge meme and Shiba Inu dogs**
@@ -33,7 +33,7 @@
 ![Illustrator](https://img.shields.io/badge/Illustrator-0e1a30?logo=Adobe+illustrator&logoColor=FF9A00)
 ![Photoshop](https://img.shields.io/badge/Photoshop-0e1a30?logo=Adobe+photoshop&logoColor=31A8FF)
 
-<h3 align="left">GitHub stats</h3>
+<h3 align="left">GitHub Stats</h3>
 <p align="left">
 <a href="https://github.com/Feniksovich">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=feniksovich&count_private=true&show_icons=true&hide_border=true&theme=dark&icon_color=31c6ff&title_color=cd2fff&custom_title=My GitHub Stats"/>
