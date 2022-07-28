@@ -15,15 +15,16 @@
 ![5 - Programming Skills:](https://img.shields.io/badge/5-Programming_Skills%3A-0e1a30)
 ![Bash](https://img.shields.io/badge/Bash-0e1a30?logo=GNU+bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0e1a30?logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-0e1a30?logo=java&logoColor=orange)
+![Java](https://img.shields.io/badge/Java-0e1a30?logo=OpenJDK&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-0e1a30?logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-0e1a30?logo=css3&logoColor=blue)<br />
-![6 - Software:](https://img.shields.io/badge/6-Software%3A-0e1a30)
+![7 - Software:](https://img.shields.io/badge/7-Software%3A-0e1a30)
 ![Linux](https://img.shields.io/badge/Linux-0e1a30?logo=linux&logoColor=FCC624)
 ![WSL](https://img.shields.io/badge/WSL-0e1a30?logo=microsoft)
 ![Docker](https://img.shields.io/badge/Docker-0e1a30?logo=docker&logoColor=2496ED)
 ![MariaDB](https://img.shields.io/badge/MariaDB-0e1a30?logo=mariadb)
 ![Redis](https://img.shields.io/badge/Redis-0e1a30?logo=redis&logoColor=DC382D)
+![MongoDB](https://img.shields.io/badge/MongoDB-0e1a30?logo=MongoDB&logoColor=47A248)
 ![NGINX](https://img.shields.io/badge/NGINX-0e1a30?logo=nginx&logoColor=009639)<br />
 ![6 - Tools:](https://img.shields.io/badge/6-Tools%3A-0e1a30)
 ![Git](https://img.shields.io/badge/Git-0e1a30?logo=git&logoColor=F05032)
