@@ -1,3 +1,5 @@
+> ### Not active until september 2022 due to holidays :)
+
 <h2>Hi <a href="#"><img width="3%" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/279/waving-hand_1f44b.png"></a>, I'm Maxim Fenixov</h1>
 <samp>
   The Internet knows me as <img src="https://feniksovich.github.io/assets/gradient_nickname.svg"/>, I'm DevOps, love Linux and code!<br />
