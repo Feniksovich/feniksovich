@@ -1,4 +1,4 @@
-<h2>Hi <a href="#"><img width="3%" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/279/waving-hand_1f44b.png"></a>, I'm Maxim Fenixov</h1>
+<h2>Hi <a href="#"><img width="2%" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/279/waving-hand_1f44b.png"></a>, I'm Maxim Fenixov</h1>
 <samp>
   The Internet knows me as <img src="https://feniksovich.github.io/assets/gradient_nickname.svg"/>, I'm DevOps, love Linux and code!<br />
   See more below :Р<br>
@@ -43,4 +43,5 @@
 </p>
 
 <a href="#">![Profile Views](https://gpvc.arturio.dev/feniksovich)</a>
+[![wakatime](https://wakatime.com/badge/user/4dabb8b9-7a40-48e5-a3bb-104261857127.svg)](https://wakatime.com/@4dabb8b9-7a40-48e5-a3bb-104261857127)
 <a href="https://feniksovich.github.io">![feniksovich.github.io](https://img.shields.io/badge/feniksovich.github.io-B007B8?logo=github&logoColor=white)</a>
