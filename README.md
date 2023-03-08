@@ -1,20 +1,19 @@
 <h2>Hi <a href="#"><img width="2%" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/279/waving-hand_1f44b.png"></a>, I'm Maxim Fenixov</h1>
 <samp>
-  The Internet knows me as <img src="https://feniksovich.github.io/assets/gradient_nickname.svg"/>, I'm DevOps, love Linux and code!<br />
-  See more below :Р<br>
+  The Internet knows me as <img src="https://feniksovich.github.io/assets/gradient_nickname.svg"/>
+  <br>I'm self-learning Java Developer that also interested in DevOps & Linux!<br>
 <a href="https://feniksovich.github.io"><img align="right" width="8%" src="https://feniksovich.github.io/assets/doge.gif"/></a>
 </samp><br>
 
-<!--- - 🔭 I’m currently working on **[Furnex Network](https://furnex.org)** -->
-- 🌱 I’m currently learning **Java, Minecraft Bukkit & BungeeCord API**
+- 🔭 I’m currently working on **[Colombino Creative](https://colombinomc.com/discord)**
+- 🌱 I’m currently learning **Spring Framework & Highload systems**
 - 📫 How to reach me **[feniksovich.github.io](https://feniksovich.github.io)**
 - ⚡ Fun fact **I'm crazy about Doge meme and Shiba Inu dogs**
 
 <h3 align="left">Tech Stack</h3>
 
-![5 - Programming Skills:](https://img.shields.io/badge/5-Programming_Skills%3A-0e1a30)
+![4 - Programming Skills:](https://img.shields.io/badge/4-Programming_Skills%3A-0e1a30)
 ![Bash](https://img.shields.io/badge/Bash-0e1a30?logo=GNU+bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0e1a30?logo=python&logoColor=3776AB)
 ![Java](https://img.shields.io/badge/Java-0e1a30?logo=OpenJDK&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-0e1a30?logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-0e1a30?logo=css3&logoColor=blue)<br />
@@ -26,14 +25,16 @@
 ![Redis](https://img.shields.io/badge/Redis-0e1a30?logo=redis&logoColor=DC382D)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0e1a30?logo=MongoDB&logoColor=47A248)
 ![NGINX](https://img.shields.io/badge/NGINX-0e1a30?logo=nginx&logoColor=009639)<br />
-![6 - Tools:](https://img.shields.io/badge/6-Tools%3A-0e1a30)
+![7 - Tools:](https://img.shields.io/badge/7-Tools%3A-0e1a30)
 ![Git](https://img.shields.io/badge/Git-0e1a30?logo=git&logoColor=F05032)
 ![Intellij IDEA](https://img.shields.io/badge/Intellij_IDEA-0e1a30?logo=intellij+idea&logoColor=critical)
+![CLion](https://img.shields.io/badge/CLion-0e1a30?logo=clion&logoColor=21d789)
 ![Maven](https://img.shields.io/badge/Maven-0e1a30?logo=Apache+Maven&logoColor=C71A36)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0e1a30?logo=visual+studio+code&logoColor=007ACC)
 ![Illustrator](https://img.shields.io/badge/Illustrator-0e1a30?logo=Adobe+illustrator&logoColor=FF9A00)
 ![Photoshop](https://img.shields.io/badge/Photoshop-0e1a30?logo=Adobe+photoshop&logoColor=31A8FF)
 
+<!--
 <h3 align="left">GitHub Stats</h3>
 <p align="left">
 <a href="https://github.com/Feniksovich">
@@ -41,6 +42,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feniksovich&layout=compact&hide_border=true&theme=dark&icon_color=31c6ff&title_color=cd2fff&custom_title=Top Languages"/>
 </a>
 </p>
+-->
 
 <a href="#">![Profile Views](https://gpvc.arturio.dev/feniksovich)</a>
 [![wakatime](https://wakatime.com/badge/user/4dabb8b9-7a40-48e5-a3bb-104261857127.svg)](https://wakatime.com/@4dabb8b9-7a40-48e5-a3bb-104261857127)
