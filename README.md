@@ -1,4 +1,4 @@
-<h2>Hi <a href="#"><img width="2%" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/279/waving-hand_1f44b.png"></a>, I'm Maxim Fenixov</h1>
+<h2>Hi <a href="#"><img style="width:3%; margin-bottom:-6px;" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png"></a> I'm Maxim Fenixov</h1>
 <samp>
   The Internet knows me as <img src="https://feniksovich.github.io/assets/gradient_nickname.svg"/>
   <br>I'm self-learning Java Developer that also interested in DevOps & Linux!<br>
@@ -42,8 +42,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feniksovich&layout=compact&hide_border=true&theme=dark&icon_color=31c6ff&title_color=cd2fff&custom_title=Top Languages"/>
 </a>
 </p>
--->
-
 <a href="#">![Profile Views](https://gpvc.arturio.dev/feniksovich)</a>
+-->
 [![wakatime](https://wakatime.com/badge/user/4dabb8b9-7a40-48e5-a3bb-104261857127.svg)](https://wakatime.com/@4dabb8b9-7a40-48e5-a3bb-104261857127)
 <a href="https://feniksovich.github.io">![feniksovich.github.io](https://img.shields.io/badge/feniksovich.github.io-B007B8?logo=github&logoColor=white)</a>
