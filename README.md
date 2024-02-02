@@ -34,6 +34,7 @@
 ![Illustrator](https://img.shields.io/badge/Illustrator-0e1a30?logo=Adobe+illustrator&logoColor=FF9A00)
 ![Photoshop](https://img.shields.io/badge/Photoshop-0e1a30?logo=Adobe+photoshop&logoColor=31A8FF)
 
-[![views](https://visitcount.itsvg.in/api?id=Feniksovich&label=Profile%20Views&color=5&icon=8&pretty=false)](https://visitcount.itsvg.in)
 [![wakatime](https://wakatime.com/badge/user/4dabb8b9-7a40-48e5-a3bb-104261857127.svg)](https://wakatime.com/@4dabb8b9-7a40-48e5-a3bb-104261857127)
 <a href="https://feniksovich.github.io">![feniksovich.github.io](https://img.shields.io/badge/feniksovich.github.io-B007B8?logo=github&logoColor=white)</a>
+
+<!--[![views](https://visitcount.itsvg.in/api?id=Feniksovich&label=Profile%20Views&color=5&icon=8&pretty=false)](https://visitcount.itsvg.in)-->
