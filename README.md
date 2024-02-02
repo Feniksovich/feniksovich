@@ -34,15 +34,6 @@
 ![Illustrator](https://img.shields.io/badge/Illustrator-0e1a30?logo=Adobe+illustrator&logoColor=FF9A00)
 ![Photoshop](https://img.shields.io/badge/Photoshop-0e1a30?logo=Adobe+photoshop&logoColor=31A8FF)
 
-<!--
-<h3 align="left">GitHub Stats</h3>
-<p align="left">
-<a href="https://github.com/Feniksovich">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=feniksovich&count_private=true&show_icons=true&hide_border=true&theme=dark&icon_color=31c6ff&title_color=cd2fff&custom_title=My GitHub Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feniksovich&layout=compact&hide_border=true&theme=dark&icon_color=31c6ff&title_color=cd2fff&custom_title=Top Languages"/>
-</a>
-</p>
-<a href="#">![Profile Views](https://gpvc.arturio.dev/feniksovich)</a>
--->
+[![views](https://visitcount.itsvg.in/api?id=Feniksovich&label=Profile%20Views&color=5&icon=8&pretty=false)](https://visitcount.itsvg.in)
 [![wakatime](https://wakatime.com/badge/user/4dabb8b9-7a40-48e5-a3bb-104261857127.svg)](https://wakatime.com/@4dabb8b9-7a40-48e5-a3bb-104261857127)
 <a href="https://feniksovich.github.io">![feniksovich.github.io](https://img.shields.io/badge/feniksovich.github.io-B007B8?logo=github&logoColor=white)</a>
