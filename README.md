@@ -5,8 +5,8 @@
 <a href="https://feniksovich.github.io"><img align="right" width="8%" src="https://feniksovich.github.io/assets/doge.gif"/></a>
 </samp><br>
 
-- 🔭 I’m currently working on **[Colombino Creative](https://colombinomc.com/discord)**
-- 🌱 I’m currently learning **Spring Framework & Highload systems**
+- 🔭 I’m currently working on **[Colombino Creative](https://colombinomc.com)**
+- 🌱 I’m currently learning **Spring Framework**
 - 📫 How to reach me **[feniksovich.github.io](https://feniksovich.github.io)**
 - ⚡ Fun fact **I'm crazy about Doge meme and Shiba Inu dogs**
 
@@ -14,7 +14,7 @@
 
 ![4 - Programming Skills:](https://img.shields.io/badge/4-Programming_Skills%3A-0e1a30)
 ![Bash](https://img.shields.io/badge/Bash-0e1a30?logo=GNU+bash&logoColor=white)
-![Java](https://img.shields.io/badge/Java-0e1a30?logo=OpenJDK&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Primary-0e1a30?labelColor=0e1a30&color=ffd800&logo=OpenJDK&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-0e1a30?logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-0e1a30?logo=css3&logoColor=blue)<br />
 ![7 - Software:](https://img.shields.io/badge/7-Software%3A-0e1a30)
